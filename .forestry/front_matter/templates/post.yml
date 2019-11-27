@@ -37,6 +37,6 @@ fields:
   config:
     required: true
 pages:
-- content/posts/working-from-home.md
 - content/posts/what-isphotography.md
+- content/posts/working-from-home.md
 - content/posts/relax-in-nature.md
