@@ -1,17 +1,14 @@
 ---
-title: My Way to Relax in Nature and Stress Less
-subtitle: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
-date: '2019-03-24'
-thumb_img_path: images/4.jpg
-content_img_path: images/4.jpg
-excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
+title: 'Zoom sur : La Science Infuse !'
+subtitle: 'Une bière unique, brassée au coeur de l''université de La Rochelle, '
+date: 2019-11-26T23:00:00+00:00
+thumb_img_path: "/images/jonas-jacobsson-628316-unsplash.jpg"
+content_img_path: "/images/jonas-jacobsson-628316-unsplash.jpg"
+excerpt: The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
 layout: post
----
 
+---
 **Relax** in Nature and Stress Less. Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
 
 > Look deep into nature, and then you will understand everything better. - Albert Einstein
