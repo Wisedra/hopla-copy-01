@@ -3,15 +3,16 @@ title: Home
 sections:
 - type: intro
   template: intro
-  title: Intro
+  title: Hoplà, découvrez les bières proches de chez vous
   section_id: intro
   component: intro.html
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: "Vous êtes attirés par les (vraies) bières artisanales ? Vous souhaitez
+    affiner vos connaissances et votre consommation de cette boisson ?   \nHoplà vous
+    aide à comprendre, décrypter et trouver les boissons qui vous plaisent ! "
   actions:
-  - label: Learn More
+  - label: Lire les articles !
+    url: "/blog"
+  - label: 'Qui est Hoplà ? '
     url: "/about"
 layout: home
 menu:
